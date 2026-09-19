@@ -216,6 +216,124 @@
     "tavsif": "Boshida eng zaif hunter bo'lgan, Sistema orqali cheksiz kuchayib boruvchi qahramon.",
     "rasm": "images/jin_woo.jpg"
   }
+  ,
+{
+  "id": "cha_hae_in",
+  "turi": "anime",
+  "ism": "Cha Hae-In",
+  "manba": "Solo Leveling",
+  "yoshi": 26,
+  "qayerlik": "Janubiy Koreya",
+  "kuch_darajasi": "9/10",
+  "qobiliyat": "Mana hidini sezish, ustun qilichbozlik va tezlik",
+  "kuchlari": ["Qilichbozlik mahorati", "G'ayrioddiy tezlik", "Mana Perception (energiyani hidlash)"],
+  "tavsif": "Koreyaning yagona ayol S-rank ovchisi, Ovchilar Gildiyasining o'rinbosar boshlig'i. Boshida Jin Wooga shubha bilan qaragan, keyinchalik uning eng yaqin ittifoqchisi va sevgilisiga aylangan.",
+  "rasm": "images/cha_hae_in.jpg"
+},
+{
+  "id": "beru",
+  "turi": "anime",
+  "ism": "Beru",
+  "manba": "Solo Leveling",
+  "yoshi": null,
+  "qayerlik": "Jeju oroli zindoni",
+  "kuch_darajasi": "9.5/10",
+  "qobiliyat": "Yeb yutgan mavjudotlarning xotira va ko'nikmalarini olish, o'lchamini o'zgartirish",
+  "kuchlari": ["Chumolilar shohi kuchi", "Tezlik va o'lcham nazorati", "Cursed energy so'rish"],
+  "tavsif": "Jeju orolidagi zindonning eng kuchli mavjudoti, \"Chumolilar shohi\" — mag'lubiyatdan so'ng Jin Wooning eng sodiq soyalaridan biriga aylangan.",
+  "rasm": "images/beru.jpg"
+},
+{
+  "id": "igris",
+  "turi": "anime",
+  "ism": "Igris",
+  "manba": "Solo Leveling",
+  "yoshi": null,
+  "qayerlik": "Noma'lum (Monarch olami)",
+  "kuch_darajasi": "9/10",
+  "qobiliyat": "Qilichbozlik va olovli sehr, bo'sh taxtni himoya qilish",
+  "kuchlari": ["Blood-Red Commander's Sword", "Olovli hujumlar", "Qurolsiz jang mahorati"],
+  "tavsif": "Sistem tomonidan avtomatik yaratilgan sinf o'zgartirish vazifasining bossi, keyinchalik Jin Wooning eng sodiq va kuchli soya generallaridan biri bo'lgan.",
+  "rasm": "images/igris.jpg"
+}
+,
+{
+  "id": "kaneki",
+  "turi": "anime",
+  "ism": "Kaneki Ken",
+  "manba": "Tokyo Ghoul",
+  "yoshi": 18,
+  "qayerlik": "Tokio, Yaponiya",
+  "kuch_darajasi": "8.8/10",
+  "qobiliyat": "Yarim g'ul (half-ghoul) — inson va g'ul kuchlarini birlashtirgan",
+  "kuchlari": ["Kagune (Ukaku turi)", "Tez tiklanish (regeneratsiya)", "G'ayrioddiy kuch va tezlik"],
+  "tavsif": "Oddiy universitet talabasi bo'lgan, ammo baxtsiz hodisadan so'ng yarim g'ulga aylangan, o'z ichidagi insoniylik va vahshiylik o'rtasida kurashadigan bosh qahramon.",
+  "rasm": "images/kaneki.jpg"
+}
+,
+{
+  "id": "hide",
+  "turi": "anime",
+  "ism": "Hideyoshi Nagachika (Hide)",
+  "manba": "Tokyo Ghoul",
+  "yoshi": 18,
+  "qayerlik": "Tokio, Yaponiya",
+  "kuch_darajasi": "6/10",
+  "qobiliyat": "Oddiy inson, lekin g'ayrioddiy kuzatuvchanlik va ayg'oqchilik mahorati",
+  "kuchlari": ["Tezkor fikrlash", "Ayg'oqchilik", "Sodiqlik"],
+  "tavsif": "Kanekining bolalikdan yaqin do'sti, oddiy inson bo'lsa-da, uning sirini bilib qolgach, uni himoya qilish uchun ayg'oqchi sifatida CCG'da xizmat qiladi.",
+  "rasm": "images/hide.jpg"
+},
+{
+  "id": "touka",
+  "turi": "anime",
+  "ism": "Touka Kirishima",
+  "manba": "Tokyo Ghoul",
+  "yoshi": 16,
+  "qayerlik": "Tokio, Yaponiya",
+  "kuch_darajasi": "8/10",
+  "qobiliyat": "G'ul (ghoul) — kagune orqali jang qiladi",
+  "kuchlari": ["Ukaku turidagi kagune", "G'ayrioddiy tezlik", "Yuqori regeneratsiya"],
+  "tavsif": "Anteiku kafesida ishlaydigan g'ul qiz, boshida Kanekiga qattiqqo'l munosabatda bo'lgan, keyinchalik uning eng yaqin himoyachisi va sevgilisiga, so'ngra rafiqasiga aylangan.",
+  "rasm": "images/touka.jpg"
+},
+{
+  "id": "rize",
+  "turi": "anime",
+  "ism": "Rize Kamishiro",
+  "manba": "Tokyo Ghoul",
+  "yoshi": null,
+  "qayerlik": "Tokio, Yaponiya",
+  "kuch_darajasi": "9.2/10",
+  "qobiliyat": "Kuchli g'ul (Binge Eater laqabli), keyinchalik Kakuja darajasiga yetgan",
+  "kuchlari": ["Rinkaku turidagi kagune", "Kakuja transformatsiyasi", "G'ayrioddiy jismoniy kuch"],
+  "tavsif": "Kanekiga birinchi \"uchrashuv\"da hujum qilib, uni deyarli o'ldirgan g'ul. Uning a'zolari Kanekiga transplantatsiya qilinishi natijasida u yarim g'ulga aylangan — butun voqealar shundan boshlanadi.",
+  "rasm": "images/rize.jpg"
+},
+{
+  "id": "amon",
+  "turi": "anime",
+  "ism": "Amon Koutarou",
+  "manba": "Tokyo Ghoul",
+  "yoshi": 22,
+  "qayerlik": "Tokio, Yaponiya",
+  "kuch_darajasi": "8.3/10",
+  "qobiliyat": "CCG tergovchisi, Quinque (g'ul a'zolaridan yasalgan qurol) ustasi",
+  "kuchlari": ["Quinque bilan jang mahorati", "Qattiq intizom va matonat", "Keyinchalik yarim g'ulga aylanish"],
+  "tavsif": "G'ullarga qarshi kurashuvchi CCG tergovchisi, adolat tuyg'usi kuchli, lekin voqealar davomida g'ullar dunyosini boshqacha tushuna boshlaydi.",
+  "rasm": "images/amon.jpg"
+},
+{
+  "id": "ichika",
+  "turi": "anime",
+  "ism": "Ichika Kaneki",
+  "manba": "Tokyo Ghoul:re",
+  "yoshi": null,
+  "qayerlik": "Tokio, Yaponiya",
+  "qobiliyat": "Yarim g'ul (ota-onasidan meros), kuchlari hali to'liq ochilmagan",
+  "tavsif": "Kaneki Ken va Touka Kirishimaning qizi, hikoyaning so'nggi qismlarida (epilogda) paydo bo'ladi.",
+  "rasm": "images/ichika.jpg"
+}
 ,
 {
   "id": "jack_sparrow",
@@ -256,5 +374,19 @@
   "kuchlari": ["Pirates of the Caribbean", "Charlie va shokolad fabrikasi", "Edward Scissorhands", "Sleepy Hollow"],
   "tavsif": "1963-yil 9-iyunda tug'ilgan, Jek Sparrou va Villi Vonka kabi ikonik obrazlarni jonlantirgan mashhur aktyor.",
   "rasm": "images/jonni_depp.jpg"
+}
+,
+{
+  "id": "peter_parker_holland",
+  "turi": "kino",
+  "ism": "Piter Parker (O'rgimchak odam)",
+  "manba": "Spider-Man: Homecoming",
+  "aktyor": "Tom Holland",
+  "yoshi": 20,
+  "qayerlik": "Nyu-York, AQSH",
+  "qobiliyat": "O'rgimchak kuchi, devorlarga yopishish, o'ta sezgirlik (spider-sense)",
+  "kuchlari": ["O'rgimchak to'ri otish", "G'ayrioddiy chaqqonlik", "Kuchli reflekslar", "Peter Tingle (xavfni sezish)"],
+  "tavsif": "Radioaktiv o'rgimchak chaqqan oddiy maktab o'quvchisi, Nyu-Yorkni himoya qiluvchi super-qahramonga aylanadi. MCU'dagi eng yosh Spider-Man aktyori.",
+  "rasm": "images/peter_parker_holland.jpg"
 }
 ]
