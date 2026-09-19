@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qahramonlar bazasi</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Qahramonlar bazasi</h1>
+  <p>Anime, kino va multfilm personajlarini qidiring</p>
+  <div class="search-wrap">
+    <input type="text" id="searchInput" placeholder="Ism, anime yoki kino nomini yozing...">
+  </div>
+  <div class="search-hint">Masalan: "Naruto", "Jujutsu Kaisen", yoki aktyor ismi</div>
+</header>
+
+<main>
+  <div id="resultCount"></div>
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="emptyState" hidden>
+    <strong>Hech narsa topilmadi</strong>
+    Boshqa ism yoki nom bilan qidirib ko'ring.
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-col">
+      <h3>Qahramonlar bazasi</h3>
+      <p>Anime, kino va multfilm personajlari haqida ma'lumotlar to'plami. Doimiy yangilanib boriladi.</p>
+    </div>
+    <div class="footer-col">
+      <h3>Yaratuvchi</h3>
+      <p>Nurbek Yo'ldoshev</p>
+      <div class="footer-links">
+        <a href="https://@Yo'ldoshev.uz" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://t.me/nurik2002Nr" target="_blank" rel="noopener">Telegram</a>
+        <a href="mailto:nurbekyoldoshev49@gmail.com">Email</a>
+        <a href="https://instagram.com/i_yuldashev.20">Instagram</a>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://instagram.com/username">
+        <a href="https://instagram.com/i_yuldashev.20"></a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h3>Hamkorlar / Manbalar</h3>
+      <div class="footer-links">
+        <a href="https://myanimelist.net" target="_blank" rel="noopener">MyAnimeList</a>
+        <a href="https://www.imdb.com" target="_blank" rel="noopener">IMDb</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    &copy; 2026 Qahramonlar bazasi. Barcha huquqlar himoyalangan.
+  </div>
+</footer>
+
+<div class="modal-overlay" id="modalOverlay" hidden>
+  <div class="modal" id="modalContent"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

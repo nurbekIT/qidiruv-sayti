@@ -1,0 +1,260 @@
+[
+  {
+    "id": "gojo",
+    "turi": "anime",
+    "ism": "Gojo Satoru",
+    "manba": "Jujutsu Kaisen",
+    "yoshi": 28,
+    "qayerlik": "Yaponiya",
+    "kuch_darajasi": "10/10",
+    "qobiliyat": "Limitless (Cheksizlik), Six Eyes (Olti ko'z)",
+    "kuchlari": ["Limitless", "Six Eyes", "Unlimited Void", "Hollow Purple"],
+    "tavsif": "Jujutsu jamiyatidagi eng kuchli sehrgar, Tokio Jujutsu Texnika Oliy Maktabida o'qituvchi.",
+    "rasm": "images/gojo.jpg"
+  }
+  ,
+  {
+    "id": "sukuna",
+    "turi": "anime",
+    "ism": "Sukuna Ryomen",
+    "manba": "Jujutsu Kaisen",
+    "yoshi": null,
+    "qayerlik": "Yaponiya (qadimiy davr)",
+    "kuch_darajasi": "10/10",
+    "qobiliyat": "Cursed energy (La'nat energiyasi)",
+    "kuchlari": ["Cleave", "Dismantle", "Malevolent Shrine", "Fire Arrow"],
+    "tavsif": "Ming yillar oldin yashagan \"La'natlar shohi\", hozirda Yuji Itadori tanasida yashaydi.",
+    "rasm": "images/sukuna.jpg"
+  }
+  ,
+  {
+    "id": "nobara",
+    "turi": "anime",
+    "ism": "Nobara Kugisaki",
+    "manba": "Jujutsu Kaisen",
+    "yoshi": 16,
+    "qayerlik": "Yaponiya, qishloq hudud",
+    "kuch_darajasi": "8.5/10",
+    "qobiliyat": "Straw Doll Technique (somon qo'g'irchoq texnikasi)",
+    "kuchlari": ["Resonance", "Hairpin", "Straw Doll Technique"],
+    "tavsif": "Jasur va o'jar birinchi kurs talabasi, bolg'a va mixlar bilan jang qiladi.",
+    "rasm": "images/nobara.jpg"
+  }
+  ,
+{
+  "id": "yuji",
+  "turi": "anime",
+  "ism": "Yuji Itadori",
+  "manba": "Jujutsu Kaisen",
+  "yoshi": 15,
+  "qayerlik": "Sendai, Yaponiya",
+  "kuch_darajasi": "8/10",
+  "qobiliyat": "G'ayrioddiy jismoniy kuch, Sukunaning idishi",
+  "kuchlari": ["Divergent Fist", "Black Flash", "Cursed Speech (qisman)"],
+  "tavsif": "Sukunaning barmog'ini yutib yuborgan, o'z tanasida uni yashiruvchi yosh talaba, kuchli jismoniy qobiliyatga ega.",
+  "rasm": "images/yuji.jpg"
+},
+{
+  "id": "megumi",
+  "turi": "anime",
+  "ism": "Megumi Fushiguro",
+  "manba": "Jujutsu Kaisen",
+  "yoshi": 15,
+  "qayerlik": "Yaponiya",
+  "kuch_darajasi": "8.3/10",
+  "qobiliyat": "Ten Shadows Technique — soya orqali ruhlarni chaqirish",
+  "kuchlari": ["Divine Dogs", "Nue", "Mahoraga", "Domain Expansion: Chimera Shadow Garden"],
+  "tavsif": "Sokin va mantiqiy fikrlaydigan sehrgar, o'ziga xos soya texnikasi orqali turli ruhiy hayvonlarni chaqirib jang qiladi.",
+  "rasm": "images/megumi.jpg"
+},
+{
+  "id": "toji",
+  "turi": "anime",
+  "ism": "Toji Fushiguro",
+  "manba": "Jujutsu Kaisen",
+  "yoshi": null,
+  "qayerlik": "Yaponiya",
+  "kuch_darajasi": "9.4/10",
+  "qobiliyat": "La'nat energiyasiz ham eng kuchli jangchilardan biri (Heavenly Restriction)",
+  "kuchlari": ["G'ayrioddiy tezlik va kuch", "Turli qurollardan mohirona foydalanish", "Cursed tool: Inverted Spear of Heaven"],
+  "tavsif": "\"La'natsiz\" tug'ilgan, ammo shu sabab jismoniy qobiliyati cheksiz oshgan afsonaviy suiqasdchi, Megumining otasi.",
+  "rasm": "images/toji.jpg"
+}
+,
+{
+  "id": "maki",
+  "turi": "anime",
+  "ism": "Maki Zenin",
+  "manba": "Jujutsu Kaisen",
+  "yoshi": 17,
+  "qayerlik": "Yaponiya",
+  "kuch_darajasi": "8.5/10",
+  "qobiliyat": "La'nat energiyasi yo'q, lekin jismoniy qobiliyati cheksiz kuchaygan (Heavenly Restriction)",
+  "kuchlari": ["Cursed tools ustasi", "G'ayrioddiy jismoniy kuch va tezlik", "Qilichbozlik mahorati"],
+  "tavsif": "Zenin urug'idan bo'lsa-da, la'nat energiyasi yo'qligi uchun kamsitilgan, ammo shu \"nuqson\" uni jismonan afsonaviy darajada kuchli qilgan jangchi.",
+  "rasm": "images/maki.jpg"
+},
+{
+  "id": "yuta",
+  "turi": "anime",
+  "ism": "Yuta Okkotsu",
+  "manba": "Jujutsu Kaisen",
+  "yoshi": 16,
+  "qayerlik": "Yaponiya",
+  "kuch_darajasi": "9.6/10",
+  "qobiliyat": "Copy (nusxalash) texnikasi — ko'rgan texnikalarini takrorlay oladi",
+  "kuchlari": ["Rika (Queen of Curses)", "Copy Technique", "Domain Expansion"],
+  "tavsif": "Bolalikdan Rika ismli kuchli la'nat bilan bog'langan, keyinchalik Jujutsu maktabining eng istiqbolli sehrgarlaridan biriga aylangan.",
+  "rasm": "images/yuta.jpg"
+},
+{
+  "id": "geto",
+  "turi": "anime",
+  "ism": "Geto Suguru",
+  "manba": "Jujutsu Kaisen",
+  "yoshi": null,
+  "qayerlik": "Yaponiya",
+  "kuch_darajasi": "9.3/10",
+  "qobiliyat": "La'natlarni yutib, ularni o'z ixtiyorida boshqarish",
+  "kuchlari": ["Cursed Spirit Manipulation", "Uzumaki (yutilgan la'natlar to'plami)", "Domain Expansion: Uzumaki"],
+  "tavsif": "Avvallari Gojoning eng yaqin do'sti va hamkasbi bo'lgan, keyinchalik insoniyatga nisbatan nafrati kuchayib, asosiy antagonistlardan biriga aylangan sehrgar.",
+  "rasm": "images/geto.jpg"
+},
+{
+  "id": "kenjaku",
+  "turi": "anime",
+  "ism": "Kenjaku",
+  "manba": "Jujutsu Kaisen",
+  "yoshi": null,
+  "qayerlik": "Yaponiya (ming yillar davomida yashagan)",
+  "kuch_darajasi": "9.7/10",
+  "qobiliyat": "Idle Transfiguration — miyalarni almashtirish orqali tanadan tanaga o'tish",
+  "kuchlari": ["Idle Transfiguration", "Ming yillik tajriba va bilim", "Turli cursed techniques kombinatsiyasi"],
+  "tavsif": "Ming yillar davomida turli tanalarni almashtirib yashab kelayotgan sirli va ayyor qarshi qahramon, hozirda Geto Suguruning tanasida.",
+  "rasm": "images/kenjaku.jpg"
+}
+,
+  {
+    "id": "aizen",
+    "turi": "anime",
+    "ism": "Aizen Sosuke",
+    "manba": "Bleach",
+    "yoshi": null,
+    "qayerlik": "Soul Society",
+    "kuch_darajasi": "9.8/10",
+    "qobiliyat": "Kyoka Suigetsu orqali gipnoz va illyuziya",
+    "kuchlari": ["Kyoka Suigetsu", "Reiatsu", "Complete Hypnosis"],
+    "tavsif": "Avvalgi Soul Society kapitani, keyinchalik asosiy antagonistga aylangan.",
+    "rasm": "images/aizen.jpg"
+  },
+  {
+    "id": "itachi",
+    "turi": "anime",
+    "ism": "Itachi Uchiha",
+    "manba": "Naruto",
+    "yoshi": 21,
+    "qayerlik": "Konoha, Olov mamlakati",
+    "kuch_darajasi": "9.5/10",
+    "qobiliyat": "Sharingan va genjutsu ustasi",
+    "kuchlari": ["Sharingan", "Amaterasu", "Tsukuyomi", "Susanoo"],
+    "tavsif": "Uchiha urug'idan bo'lgan, o'z qishlog'ini himoya qilish uchun katta qurbonlik qilgan shinobi.",
+    "rasm": "images/itachi.jpg"
+  }
+  ,
+  {
+    "id": "naruto",
+    "turi": "anime",
+    "ism": "Naruto Uzumaki",
+    "manba": "Naruto",
+    "yoshi": 17,
+    "qayerlik": "Konoha, Olov mamlakati",
+    "kuch_darajasi": "9.7/10",
+    "qobiliyat": "Nine-Tails (Kurama) bilan hamkorlik, Sage Mode",
+    "kuchlari": ["Rasengan", "Shadow Clone Jutsu", "Sage Mode", "Kurama Chakra"],
+    "tavsif": "Konoha qishlog'ining Hokage bo'lishni orzu qilgan, ichida Kurama yashaydigan ninja.",
+    "rasm": "images/naruto.jpg"
+  }
+  ,
+  {
+    "id": "sakura",
+    "turi": "anime",
+    "ism": "Sakura Haruno",
+    "manba": "Naruto",
+    "yoshi": 17,
+    "qayerlik": "Konoha, Olov mamlakati",
+    "kuch_darajasi": "8.7/10",
+    "qobiliyat": "Super kuch va tibbiy ninjutsu",
+    "kuchlari": ["Chakra Control", "Healing Jutsu", "Super Strength"],
+    "tavsif": "Team 7 a'zosi, Tsunadening shogirdi, jangchi-shifokor.",
+    "rasm": "images/sakura.jpg"
+  }
+  ,
+{
+  "id": "sasuke",
+  "turi": "anime",
+  "ism": "Sasuke Uchiha",
+  "manba": "Naruto",
+  "yoshi": 17,
+  "qayerlik": "Konoha, Olov mamlakati",
+  "kuch_darajasi": "9.6/10",
+  "qobiliyat": "Sharingan va Rinnegan, chidoriy texnikalar",
+  "kuchlari": ["Chidori", "Susanoo", "Amaterasu", "Rinnegan"],
+  "tavsif": "Uchiha urug'ining so'nggi vakillaridan biri, Itachining ukasi, oxir-oqibat Konoha tarafiga o'tgan shinobi.",
+  "rasm": "images/sasuke.jpg"
+}
+  ,
+  {
+    "id": "jin_woo",
+    "turi": "anime",
+    "ism": "Sung Jin Woo",
+    "manba": "Solo Leveling",
+    "yoshi": 20,
+    "qayerlik": "Janubiy Koreya",
+    "kuch_darajasi": "10/10",
+    "qobiliyat": "Shadow Monarch — soyalarni boshqarish",
+    "kuchlari": ["Shadow Army", "Monarch's Domain", "Ruler's Authority"],
+    "tavsif": "Boshida eng zaif hunter bo'lgan, Sistema orqali cheksiz kuchayib boruvchi qahramon.",
+    "rasm": "images/jin_woo.jpg"
+  }
+,
+{
+  "id": "jack_sparrow",
+  "turi": "kino",
+  "ism": "Kapitan Jek Sparrou (Chittak)",
+  "manba": "Karib dengizi qaroqchilari",
+  "aktyor": "Jonni Depp",
+  "yoshi": 40,
+  "qayerlik": "Karib dengizi",
+  "qobiliyat": "Ayyorlik, omadi va uddaburonligi bilan qiyin vaziyatlardan chiqib ketadi",
+  "kuchlari": ["Qilichbozlik", "Ayyor strategiya", "Dengizchilik mahorati"],
+  "tavsif": "Qora Marvarid kemasining sarguzasht va ayyor kapitani, o'z manfaati bilan yaxshilik orasida muvozanat saqlaydi.",
+  "rasm": "images/jack_sparrow.jpg"
+} 
+,
+{
+  "id": "willy_wonka",
+  "turi": "kino",
+  "ism": "Villi Vonka",
+  "manba": "Charli va shokolad fabrikasi",
+  "aktyor": "Jonni Depp",
+  "yoshi": 41,
+  "qayerlik": "Angliya (fabrika joylashgan joy)",
+  "qobiliyat": "G'aroyib ixtirochilik va shokolad tayyorlash san'ati",
+  "kuchlari": ["Ixtirochilik", "Ekssentrik xayolot", "Fabrikani boshqarish"],
+  "tavsif": "O'zining sirli va g'alati shokolad fabrikasi egasi, besh bolani fabrikaga sayohatga taklif qiladi.",
+  "rasm": "images/willy_wonka.jpg"
+}
+,
+{
+  "id": "jonni_depp",
+  "turi": "odam",
+  "ism": "Jonni Depp",
+  "manba": "Amerikalik aktyor, prodyuser va musiqachi",
+  "yoshi": 63,
+  "qayerlik": "AQSH, Kentukki shtati",
+  "qobiliyat": "Aktyorlik, gitara chalish, prodyuserlik",
+  "kuchlari": ["Pirates of the Caribbean", "Charlie va shokolad fabrikasi", "Edward Scissorhands", "Sleepy Hollow"],
+  "tavsif": "1963-yil 9-iyunda tug'ilgan, Jek Sparrou va Villi Vonka kabi ikonik obrazlarni jonlantirgan mashhur aktyor.",
+  "rasm": "images/jonni_depp.jpg"
+}
+]
