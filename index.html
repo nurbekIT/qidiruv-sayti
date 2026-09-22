@@ -3,10 +3,33 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Qahramonlar bazasi</title>
+<title>Qahramonlar bazasi — Anime, kino va multfilm personajlari</title>
+<meta name="description" content="Anime, kino va multfilm qahramonlarini qidiring: Naruto, Jujutsu Kaisen, Solo Leveling va boshqa personajlar haqida to'liq ma'lumot — kuchi, yoshi, qaysi asardan ekani.">
+<meta name="keywords" content="anime personajlari, qahramonlar bazasi, Naruto, Jujutsu Kaisen, Gojo, Sukuna, kino qahramonlari">
+<meta property="og:title" content="Qahramonlar bazasi">
+<meta property="og:description" content="Anime, kino va multfilm qahramonlarini qidiring va ular haqida to'liq ma'lumot oling.">
+<meta property="og:type" content="website">
 <link rel="stylesheet" href="style.css">
+<script>
+  // Sozlamalarni sahifa chizilishidan oldin qo'llash (animatsiya miltillashining oldini olish uchun)
+  if(localStorage.getItem("qs_animations") === "off"){
+    document.documentElement.classList.add("no-animations");
+  }
+</script>
 </head>
 <body>
+
+<nav class="topnav">
+  <div class="topnav-inner">
+    <a href="index.html" class="nav-logo">🦸 Qahramonlar bazasi</a>
+    <div class="nav-links">
+      <a href="index.html" class="active">Bosh sahifa</a>
+      <a href="game.html">O'yin</a>
+      <a href="settings.html">Sozlamalar</a>
+    </div>
+  </div>
+</nav>
+
 
 <header>
   <h1>Qahramonlar bazasi</h1>
@@ -34,15 +57,20 @@
     </div>
     <div class="footer-col">
       <h3>Yaratuvchi</h3>
-      <p>Nurbek Yo'ldoshev</p>
+      <p>Ism Familiya</p>
       <div class="footer-links">
-        <a href="https://@Yo'ldoshev.uz" target="_blank" rel="noopener">GitHub</a>
-        <a href="https://t.me/nurik2002Nr" target="_blank" rel="noopener">Telegram</a>
-        <a href="mailto:nurbekyoldoshev49@gmail.com">Email</a>
-        <a href="https://instagram.com/i_yuldashev.20">Instagram</a>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://instagram.com/i_yuldashev.20">
-        <a href="https://instagram.com/i_yuldashev.20"></a>
+        <a href="https://github.com/username" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://t.me/username" target="_blank" rel="noopener">Telegram</a>
+        <a href="https://instagram.com/username" target="_blank" rel="noopener">Instagram</a>
+        <a href="mailto:email@example.com">Email</a>
       </div>
+    </div>
+    <div class="footer-col footer-qr">
+      <h3>Instagram QR</h3>
+      <a href="https://instagram.com/username" target="_blank" rel="noopener">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://instagram.com/username" alt="Instagram QR kod" width="140" height="140">
+      </a>
+      <p>Skaner qiling yoki bosing</p>
     </div>
     <div class="footer-col">
       <h3>Hamkorlar / Manbalar</h3>
