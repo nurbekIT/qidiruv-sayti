@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sozlamalar — Qahramonlar bazasi</title>
+<link rel="stylesheet" href="style.css">
+<script>
+  if(localStorage.getItem("qs_animations") === "off"){
+    document.documentElement.classList.add("no-animations");
+  }
+</script>
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="topnav-inner">
+    <a href="index.html" class="nav-logo">🦸 Qahramonlar bazasi</a>
+    <div class="nav-links">
+      <a href="index.html">Bosh sahifa</a>
+      <a href="game.html">O'yin</a>
+      <a href="settings.html" class="active">Sozlamalar</a>
+    </div>
+  </div>
+</nav>
+
+<header>
+  <h1>Sozlamalar</h1>
+  <p>Saytni o'zingizga moslashtiring</p>
+</header>
+
+<main>
+  <div class="settings-wrap">
+
+    <div class="settings-item">
+      <div class="settings-item-text">
+        <h3>Animatsiyalar</h3>
+        <p>Neon porlash va suzuvchi effektlarni yoqish yoki o'chirish (sekin qurilmalarda foydali).</p>
+      </div>
+      <label class="switch">
+        <input type="checkbox" id="animToggle">
+        <span class="slider"></span>
+      </label>
+    </div>
+
+    <div class="settings-item">
+      <div class="settings-item-text">
+        <h3>O'yin hisobi</h3>
+        <p id="scoreInfo">To'g'ri javoblar: 0 / 0</p>
+      </div>
+      <button class="ghost-btn" id="clearScoreBtn">Tozalash</button>
+    </div>
+
+    <div class="settings-item">
+      <div class="settings-item-text">
+        <h3>Sayt haqida</h3>
+        <p>Qahramonlar bazasi — anime, kino va multfilm personajlari to'plami. Doimiy yangilanib boriladi.</p>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<script src="settings.js"></script>
+</body>
+</html>
