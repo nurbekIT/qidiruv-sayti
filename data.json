@@ -11,6 +11,23 @@
     "kuchlari": ["Limitless", "Six Eyes", "Unlimited Void", "Hollow Purple"],
     "tavsif": "Jujutsu jamiyatidagi eng kuchli sehrgar, Tokio Jujutsu Texnika Oliy Maktabida o'qituvchi.",
     "rasm": "images/gojo.jpg"
+  },
+{
+    "id": "nanami",
+    "turi": "anime",
+    "ism": "Nanami",
+    "manba": "Jujutsu kaisen",
+    "yoshi": 28,
+    "qayerlik": "Yaponiya",
+    "kuch_darajasi": "8.9/10",
+    "qobiliyat": "Ratio Technique",
+    "kuchlari": [
+      "Kengaytirilgan (Collapse)",
+      "Ishdan keyingi kuchayish (Overtime)",
+      "qora chaqmoq ( Black Flash)"
+    ],
+    "tavsif": "“Jujutsu Kaisen”dagi jiddiy, vazmin va yuqori malakali 1‑darajali jodugar bo‘lib, sobiq ofis xodimi sifatida tanilgan va Yuji Itadorining muhim murabbiylaridan biridir.",
+    "rasm": "images/nanami.jpg"
   }
   ,
   {
