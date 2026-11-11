@@ -846,3 +846,89 @@ html.no-animations *::after{
 .game-inputs input.input-error{
   border-color:#ff6b6b;
 }
+
+/* Akkaunt: menyudagi kirish bloki va laqab oynasi */
+.auth-box{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  margin-left:10px;
+}
+
+.auth-btn{
+  padding:8px 14px;
+  border-radius:8px;
+  border:none;
+  background:linear-gradient(90deg, var(--cyan), var(--purple));
+  color:var(--bg-0);
+  font-weight:600;
+  font-size:13.5px;
+  cursor:pointer;
+  transition:opacity 0.2s;
+}
+
+.auth-btn:hover{ opacity:0.9; }
+.auth-btn:disabled{ opacity:0.5; cursor:default; }
+
+.auth-avatar{
+  width:28px;
+  height:28px;
+  border-radius:50%;
+  object-fit:cover;
+  border:1px solid rgba(255,255,255,0.2);
+}
+
+.auth-name{
+  font-size:13.5px;
+  color:var(--text);
+  max-width:120px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+
+.nick-body{
+  padding:26px 24px;
+}
+
+.nick-body h2{
+  margin:0 0 8px;
+  font-size:20px;
+}
+
+.nick-hint{
+  margin:0 0 16px;
+  font-size:13px;
+  color:var(--text-dim);
+  line-height:1.5;
+}
+
+.nick-input{
+  width:100%;
+  padding:12px 14px;
+  border-radius:10px;
+  border:1px solid rgba(255,255,255,0.15);
+  background:var(--card-bg);
+  color:var(--text);
+  font-size:14.5px;
+  outline:none;
+}
+
+.nick-input:focus{ border-color:var(--cyan); }
+
+.nick-error{
+  margin-top:10px;
+  font-size:13px;
+  color:#ff6b6b;
+}
+
+.nick-actions{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-top:18px;
+}
+
+@media (max-width:640px){
+  .auth-box{ margin-left:0; }
+}
